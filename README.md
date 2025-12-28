@@ -64,7 +64,6 @@ Computer Science undergraduate with hands-on research experience in object detec
 
 ##
 
-##
 
 ## <p align="center">🌐 You can reach me at</p>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sonanhnguyen2811@gmail.com)
