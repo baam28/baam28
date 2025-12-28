@@ -64,57 +64,6 @@ Computer Science undergraduate with hands-on research experience in object detec
 
 ##
 
-## <p align="center">🎓 EDUCATION</p>
-
-**University of Transport and Communications (UTC)**  
-*High-Quality Program in Information Technology (Vietnamese - English Bilingual Program)*  
-*Sep 2021 - Jun 2026 (Expected)*
-
-- Acquired strong theoretical and practical foundation in Computer Vision and Deep Learning
-- Completed bilingual curriculum, developing ability to comprehend English research papers and write technical documentation
-- Gained hands-on experience in scientific research, including dataset collection, model training, and evaluation
-
-##
-
-## <p align="center">🔬 RESEARCH PROJECTS</p>
-
-### Application of Deep Learning method to detect diseases in fruit automatically
-*Student Scientific Researcher | 2024-2025*
-
-- Conducted research on automatic fruit disease detection using deep learning and computer vision
-- Integrated Feature Pyramid Network (FPN) to enhance small-object and multi-scale detection
-- Built, cleaned, and annotated image datasets for model training and evaluation
-- Benchmarked models and analyzed performance trade-offs across different architectures
-
-### Early Action Recognition using deep learning
-*Student Scientific Researcher | 2023-2024*
-
-- Designed training/inference pipelines with GCN, ST-GCN, AAGCN for skeleton-based action recognition
-- Applied knowledge distillation to reduce training cost by ~75% while maintaining accuracy
-- Optimized GPU resource utilization and built scalable evaluation workflows
-
-##
-
-## <p align="center">📝 PUBLICATIONS</p>
-
-**Evaluation of Attention-Centered YOLO Models to Detect Leaf Diseases** (Co-author)  
-*Scientific Conference on New Technology and Applications in Electricity – Electronics – Automation*  
-*University of Transport and Communications, May 2025*
-
-##
-
-## <p align="center">🏆 AWARDS AND ACHIEVEMENTS</p>
-
-- **Encouragement Prize** – Student Science and Technology Award – Ministry of Education and Training (2024, 2025)
-- **Outstanding Award** – Student Scientific Research – University of Transport and Communications (2024, 2025)
-
-##
-
-## <p align="center">📜 CERTIFICATIONS</p>
-
-- **Samsung Innovation Campus – Artificial Intelligence course** (2025)
-- **IELTS 7.5 (Academic)** (2021)
-
 ##
 
 ## <p align="center">🌐 You can reach me at</p>
